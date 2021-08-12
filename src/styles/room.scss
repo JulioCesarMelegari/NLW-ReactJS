@@ -52,6 +52,7 @@
                 min-height: 130px;
             }
 
+        
             .form-footer{
                 display: flex;
                 justify-content: space-between;
@@ -94,6 +95,10 @@
             }
 
             
+        }
+
+        .question-list{
+            margin-top: 32px;
         }
     }
 }
